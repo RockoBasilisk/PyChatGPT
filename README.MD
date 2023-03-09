@@ -1,4 +1,4 @@
-## Extremely simple python script to use ChatGPT from Terminal
+## Extremely simple script made in Python to use ChatGPT from Terminal
 ****
 **Usage:**
 ```bash
